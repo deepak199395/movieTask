@@ -1,0 +1,2 @@
+npm i @react-navigation/drawer
+npm i @react-navigation/native

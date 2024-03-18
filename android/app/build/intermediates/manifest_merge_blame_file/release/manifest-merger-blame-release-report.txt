@@ -1,0 +1,419 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.awesommovie"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:3:5-67
+11-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:3:22-64
+12
+13    <!-- 🚨 Keep only the permissions used in your app 🚨 -->
+14
+15    <uses-permission android:name="android.permission.ACCEPT_HANDOVER" />
+15-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:28:1-70
+15-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:28:18-67
+16    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
+16-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:29:3-83
+16-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:29:20-80
+17    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+17-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:30:3-79
+17-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:30:20-76
+18    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+18-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:31:3-77
+18-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:31:20-74
+19    <uses-permission android:name="android.permission.ACCESS_MEDIA_LOCATION" />
+19-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:32:3-78
+19-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:32:20-75
+20    <uses-permission android:name="android.permission.ACTIVITY_RECOGNITION" />
+20-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:33:3-77
+20-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:33:20-74
+21    <uses-permission android:name="com.android.voicemail.permission.ADD_VOICEMAIL" />
+21-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:34:3-84
+21-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:34:20-81
+22    <uses-permission android:name="android.permission.ANSWER_PHONE_CALLS" />
+22-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:35:3-75
+22-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:35:20-72
+23    <uses-permission android:name="android.permission.BLUETOOTH_ADVERTISE" />
+23-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:36:3-76
+23-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:36:20-73
+24    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
+24-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:37:3-74
+24-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:37:20-71
+25    <uses-permission android:name="android.permission.BLUETOOTH_SCAN" />
+25-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:38:3-71
+25-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:38:20-68
+26    <uses-permission android:name="android.permission.BODY_SENSORS" />
+26-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:39:3-69
+26-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:39:20-66
+27    <uses-permission android:name="android.permission.BODY_SENSORS_BACKGROUND" />
+27-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:40:3-80
+27-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:40:20-77
+28    <uses-permission android:name="android.permission.CALL_PHONE" />
+28-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:41:3-67
+28-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:41:20-64
+29    <uses-permission android:name="android.permission.CAMERA" />
+29-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:42:3-63
+29-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:42:20-60
+30    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+30-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:43:3-69
+30-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:43:20-66
+31    <uses-permission android:name="android.permission.NEARBY_WIFI_DEVICES" />
+31-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:44:3-76
+31-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:44:20-73
+32    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+32-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:45:3-75
+32-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:45:20-72
+33    <uses-permission android:name="android.permission.PROCESS_OUTGOING_CALLS" />
+33-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:46:3-79
+33-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:46:20-76
+34    <uses-permission android:name="android.permission.READ_CALENDAR" />
+34-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:47:3-70
+34-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:47:20-67
+35    <uses-permission android:name="android.permission.READ_CALL_LOG" />
+35-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:48:3-70
+35-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:48:20-67
+36    <uses-permission android:name="android.permission.READ_CONTACTS" />
+36-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:49:3-70
+36-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:49:20-67
+37    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+37-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:50:3-78
+37-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:50:20-75
+38    <uses-permission android:name="android.permission.READ_MEDIA_AUDIO" />
+38-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:51:3-73
+38-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:51:20-70
+39    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
+39-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:52:3-74
+39-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:52:20-71
+40    <uses-permission android:name="android.permission.READ_MEDIA_VIDEO" />
+40-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:53:3-73
+40-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:53:20-70
+41    <uses-permission android:name="android.permission.READ_MEDIA_VISUAL_USER_SELECTED" />
+41-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:54:3-88
+41-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:54:20-85
+42    <uses-permission android:name="android.permission.READ_PHONE_NUMBERS" />
+42-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:55:3-75
+42-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:55:20-72
+43    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+43-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:56:3-73
+43-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:56:20-70
+44    <uses-permission android:name="android.permission.READ_SMS" />
+44-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:57:3-65
+44-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:57:20-62
+45    <uses-permission android:name="android.permission.RECEIVE_MMS" />
+45-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:58:3-68
+45-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:58:20-65
+46    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+46-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:59:3-68
+46-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:59:20-65
+47    <uses-permission android:name="android.permission.RECEIVE_WAP_PUSH" />
+47-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:60:3-73
+47-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:60:20-70
+48    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+48-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:61:3-69
+48-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:61:20-66
+49    <uses-permission android:name="android.permission.SEND_SMS" />
+49-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:62:3-65
+49-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:62:20-62
+50    <uses-permission android:name="android.permission.USE_SIP" />
+50-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:63:3-64
+50-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:63:20-61
+51    <uses-permission android:name="android.permission.UWB_RANGING" />
+51-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:64:3-68
+51-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:64:20-65
+52    <uses-permission android:name="android.permission.WRITE_CALENDAR" />
+52-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:65:3-71
+52-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:65:20-68
+53    <uses-permission android:name="android.permission.WRITE_CALL_LOG" />
+53-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:66:3-71
+53-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:66:20-68
+54    <uses-permission android:name="android.permission.WRITE_CONTACTS" />
+54-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:67:3-71
+54-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:67:20-68
+55    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+55-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:68:3-79
+55-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:68:20-76
+56
+57    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+58    <!-- <uses-sdk android:minSdkVersion="14" /> -->
+59    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+59-->[com.google.firebase:firebase-firestore:24.10.2] /Users/deepakyadav/.gradle/caches/transforms-3/446baee2984c3be492092ee9934c5b89/transformed/jetified-firebase-firestore-24.10.2/AndroidManifest.xml:10:5-79
+59-->[com.google.firebase:firebase-firestore:24.10.2] /Users/deepakyadav/.gradle/caches/transforms-3/446baee2984c3be492092ee9934c5b89/transformed/jetified-firebase-firestore-24.10.2/AndroidManifest.xml:10:22-76
+60    <uses-permission android:name="android.permission.WAKE_LOCK" />
+60-->[com.google.android.gms:play-services-measurement-api:21.5.1] /Users/deepakyadav/.gradle/caches/transforms-3/882699f9ba77a41dbdeb8de0d410c93a/transformed/jetified-play-services-measurement-api-21.5.1/AndroidManifest.xml:24:5-68
+60-->[com.google.android.gms:play-services-measurement-api:21.5.1] /Users/deepakyadav/.gradle/caches/transforms-3/882699f9ba77a41dbdeb8de0d410c93a/transformed/jetified-play-services-measurement-api-21.5.1/AndroidManifest.xml:24:22-65
+61    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+61-->[com.google.android.gms:play-services-measurement-api:21.5.1] /Users/deepakyadav/.gradle/caches/transforms-3/882699f9ba77a41dbdeb8de0d410c93a/transformed/jetified-play-services-measurement-api-21.5.1/AndroidManifest.xml:25:5-79
+61-->[com.google.android.gms:play-services-measurement-api:21.5.1] /Users/deepakyadav/.gradle/caches/transforms-3/882699f9ba77a41dbdeb8de0d410c93a/transformed/jetified-play-services-measurement-api-21.5.1/AndroidManifest.xml:25:22-76
+62    <uses-permission android:name="android.permission.ACCESS_ADSERVICES_ATTRIBUTION" />
+62-->[com.google.android.gms:play-services-measurement-api:21.5.1] /Users/deepakyadav/.gradle/caches/transforms-3/882699f9ba77a41dbdeb8de0d410c93a/transformed/jetified-play-services-measurement-api-21.5.1/AndroidManifest.xml:26:5-88
+62-->[com.google.android.gms:play-services-measurement-api:21.5.1] /Users/deepakyadav/.gradle/caches/transforms-3/882699f9ba77a41dbdeb8de0d410c93a/transformed/jetified-play-services-measurement-api-21.5.1/AndroidManifest.xml:26:22-85
+63    <uses-permission android:name="android.permission.ACCESS_ADSERVICES_AD_ID" />
+63-->[com.google.android.gms:play-services-measurement-api:21.5.1] /Users/deepakyadav/.gradle/caches/transforms-3/882699f9ba77a41dbdeb8de0d410c93a/transformed/jetified-play-services-measurement-api-21.5.1/AndroidManifest.xml:27:5-82
+63-->[com.google.android.gms:play-services-measurement-api:21.5.1] /Users/deepakyadav/.gradle/caches/transforms-3/882699f9ba77a41dbdeb8de0d410c93a/transformed/jetified-play-services-measurement-api-21.5.1/AndroidManifest.xml:27:22-79
+64    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+64-->[com.google.android.gms:play-services-measurement:21.5.1] /Users/deepakyadav/.gradle/caches/transforms-3/c1912fa041548e88e5dc4b718b294c8a/transformed/jetified-play-services-measurement-21.5.1/AndroidManifest.xml:26:5-110
+64-->[com.google.android.gms:play-services-measurement:21.5.1] /Users/deepakyadav/.gradle/caches/transforms-3/c1912fa041548e88e5dc4b718b294c8a/transformed/jetified-play-services-measurement-21.5.1/AndroidManifest.xml:26:22-107
+65
+66    <permission
+66-->[androidx.core:core:1.9.0] /Users/deepakyadav/.gradle/caches/transforms-3/131a14e650442bdc8d41eaaa9e5b4d34/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+67        android:name="com.awesommovie.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+67-->[androidx.core:core:1.9.0] /Users/deepakyadav/.gradle/caches/transforms-3/131a14e650442bdc8d41eaaa9e5b4d34/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+68        android:protectionLevel="signature" />
+68-->[androidx.core:core:1.9.0] /Users/deepakyadav/.gradle/caches/transforms-3/131a14e650442bdc8d41eaaa9e5b4d34/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+69
+70    <uses-permission android:name="com.awesommovie.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+70-->[androidx.core:core:1.9.0] /Users/deepakyadav/.gradle/caches/transforms-3/131a14e650442bdc8d41eaaa9e5b4d34/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+70-->[androidx.core:core:1.9.0] /Users/deepakyadav/.gradle/caches/transforms-3/131a14e650442bdc8d41eaaa9e5b4d34/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+71
+72    <application
+72-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:5:5-24:19
+73        android:name="com.awesommovie.MainApplication"
+73-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:6:7-38
+74        android:allowBackup="false"
+74-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:10:7-34
+75        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+75-->[androidx.core:core:1.9.0] /Users/deepakyadav/.gradle/caches/transforms-3/131a14e650442bdc8d41eaaa9e5b4d34/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+76        android:extractNativeLibs="true"
+77        android:icon="@mipmap/ic_launcher"
+77-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:8:7-41
+78        android:label="@string/app_name"
+78-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:7:7-39
+79        android:roundIcon="@mipmap/ic_launcher_round"
+79-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:9:7-52
+80        android:theme="@style/AppTheme" >
+80-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:11:7-38
+81        <activity
+81-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:12:7-23:18
+82            android:name="com.awesommovie.MainActivity"
+82-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:13:9-37
+83            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
+83-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:15:9-118
+84            android:exported="true"
+84-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:18:9-32
+85            android:label="@string/app_name"
+85-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:14:9-41
+86            android:launchMode="singleTask"
+86-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:16:9-40
+87            android:windowSoftInputMode="adjustResize" >
+87-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:17:9-51
+88            <intent-filter>
+88-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:19:9-22:25
+89                <action android:name="android.intent.action.MAIN" />
+89-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:20:13-65
+89-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:20:21-62
+90
+91                <category android:name="android.intent.category.LAUNCHER" />
+91-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:21:13-73
+91-->/Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/android/app/src/main/AndroidManifest.xml:21:23-70
+92            </intent-filter>
+93        </activity>
+94
+95        <meta-data
+95-->[:react-native-firebase_app] /Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:9:9-11:36
+96            android:name="app_data_collection_default_enabled"
+96-->[:react-native-firebase_app] /Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:10:13-63
+97            android:value="true" />
+97-->[:react-native-firebase_app] /Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:11:13-33
+98
+99        <service
+99-->[:react-native-firebase_app] /Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:13:9-21:19
+100            android:name="com.google.firebase.components.ComponentDiscoveryService"
+100-->[:react-native-firebase_app] /Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:14:13-84
+101            android:directBootAware="true"
+101-->[:react-native-firebase_app] /Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:15:13-43
+102            android:exported="false" >
+102-->[:react-native-firebase_app] /Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:16:13-37
+103            <meta-data
+103-->[:react-native-firebase_app] /Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:18:13-20:85
+104                android:name="com.google.firebase.components:io.invertase.firebase.app.ReactNativeFirebaseAppRegistrar"
+104-->[:react-native-firebase_app] /Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:19:17-120
+105                android:value="com.google.firebase.components.ComponentRegistrar" />
+105-->[:react-native-firebase_app] /Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:20:17-82
+106            <meta-data
+106-->[com.google.firebase:firebase-firestore:24.10.2] /Users/deepakyadav/.gradle/caches/transforms-3/446baee2984c3be492092ee9934c5b89/transformed/jetified-firebase-firestore-24.10.2/AndroidManifest.xml:17:13-19:85
+107                android:name="com.google.firebase.components:com.google.firebase.firestore.FirebaseFirestoreKtxRegistrar"
+107-->[com.google.firebase:firebase-firestore:24.10.2] /Users/deepakyadav/.gradle/caches/transforms-3/446baee2984c3be492092ee9934c5b89/transformed/jetified-firebase-firestore-24.10.2/AndroidManifest.xml:18:17-122
+108                android:value="com.google.firebase.components.ComponentRegistrar" />
+108-->[com.google.firebase:firebase-firestore:24.10.2] /Users/deepakyadav/.gradle/caches/transforms-3/446baee2984c3be492092ee9934c5b89/transformed/jetified-firebase-firestore-24.10.2/AndroidManifest.xml:19:17-82
+109            <meta-data
+109-->[com.google.firebase:firebase-firestore:24.10.2] /Users/deepakyadav/.gradle/caches/transforms-3/446baee2984c3be492092ee9934c5b89/transformed/jetified-firebase-firestore-24.10.2/AndroidManifest.xml:20:13-22:85
+110                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+110-->[com.google.firebase:firebase-firestore:24.10.2] /Users/deepakyadav/.gradle/caches/transforms-3/446baee2984c3be492092ee9934c5b89/transformed/jetified-firebase-firestore-24.10.2/AndroidManifest.xml:21:17-111
+111                android:value="com.google.firebase.components.ComponentRegistrar" />
+111-->[com.google.firebase:firebase-firestore:24.10.2] /Users/deepakyadav/.gradle/caches/transforms-3/446baee2984c3be492092ee9934c5b89/transformed/jetified-firebase-firestore-24.10.2/AndroidManifest.xml:22:17-82
+112            <meta-data
+112-->[com.google.android.gms:play-services-measurement-api:21.5.1] /Users/deepakyadav/.gradle/caches/transforms-3/882699f9ba77a41dbdeb8de0d410c93a/transformed/jetified-play-services-measurement-api-21.5.1/AndroidManifest.xml:37:13-39:85
+113                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+113-->[com.google.android.gms:play-services-measurement-api:21.5.1] /Users/deepakyadav/.gradle/caches/transforms-3/882699f9ba77a41dbdeb8de0d410c93a/transformed/jetified-play-services-measurement-api-21.5.1/AndroidManifest.xml:38:17-139
+114                android:value="com.google.firebase.components.ComponentRegistrar" />
+114-->[com.google.android.gms:play-services-measurement-api:21.5.1] /Users/deepakyadav/.gradle/caches/transforms-3/882699f9ba77a41dbdeb8de0d410c93a/transformed/jetified-play-services-measurement-api-21.5.1/AndroidManifest.xml:39:17-82
+115            <meta-data
+115-->[com.google.firebase:firebase-installations:17.2.0] /Users/deepakyadav/.gradle/caches/transforms-3/c8fc2349083b394e9aad4bee1c82fb70/transformed/jetified-firebase-installations-17.2.0/AndroidManifest.xml:15:13-17:85
+116                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsKtxRegistrar"
+116-->[com.google.firebase:firebase-installations:17.2.0] /Users/deepakyadav/.gradle/caches/transforms-3/c8fc2349083b394e9aad4bee1c82fb70/transformed/jetified-firebase-installations-17.2.0/AndroidManifest.xml:16:17-130
+117                android:value="com.google.firebase.components.ComponentRegistrar" />
+117-->[com.google.firebase:firebase-installations:17.2.0] /Users/deepakyadav/.gradle/caches/transforms-3/c8fc2349083b394e9aad4bee1c82fb70/transformed/jetified-firebase-installations-17.2.0/AndroidManifest.xml:17:17-82
+118            <meta-data
+118-->[com.google.firebase:firebase-installations:17.2.0] /Users/deepakyadav/.gradle/caches/transforms-3/c8fc2349083b394e9aad4bee1c82fb70/transformed/jetified-firebase-installations-17.2.0/AndroidManifest.xml:18:13-20:85
+119                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+119-->[com.google.firebase:firebase-installations:17.2.0] /Users/deepakyadav/.gradle/caches/transforms-3/c8fc2349083b394e9aad4bee1c82fb70/transformed/jetified-firebase-installations-17.2.0/AndroidManifest.xml:19:17-127
+120                android:value="com.google.firebase.components.ComponentRegistrar" />
+120-->[com.google.firebase:firebase-installations:17.2.0] /Users/deepakyadav/.gradle/caches/transforms-3/c8fc2349083b394e9aad4bee1c82fb70/transformed/jetified-firebase-installations-17.2.0/AndroidManifest.xml:20:17-82
+121            <meta-data
+121-->[com.google.firebase:firebase-common-ktx:20.4.2] /Users/deepakyadav/.gradle/caches/transforms-3/618e604b101fcc5086f1319d7ce6077b/transformed/jetified-firebase-common-ktx-20.4.2/AndroidManifest.xml:12:13-14:85
+122                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar"
+122-->[com.google.firebase:firebase-common-ktx:20.4.2] /Users/deepakyadav/.gradle/caches/transforms-3/618e604b101fcc5086f1319d7ce6077b/transformed/jetified-firebase-common-ktx-20.4.2/AndroidManifest.xml:13:17-116
+123                android:value="com.google.firebase.components.ComponentRegistrar" />
+123-->[com.google.firebase:firebase-common-ktx:20.4.2] /Users/deepakyadav/.gradle/caches/transforms-3/618e604b101fcc5086f1319d7ce6077b/transformed/jetified-firebase-common-ktx-20.4.2/AndroidManifest.xml:14:17-82
+124            <meta-data
+124-->[com.google.firebase:firebase-common:20.4.2] /Users/deepakyadav/.gradle/caches/transforms-3/6bd9c8a3878f55f60f3ab014220918e3/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:35:13-37:85
+125                android:name="com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar"
+125-->[com.google.firebase:firebase-common:20.4.2] /Users/deepakyadav/.gradle/caches/transforms-3/6bd9c8a3878f55f60f3ab014220918e3/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:36:17-109
+126                android:value="com.google.firebase.components.ComponentRegistrar" />
+126-->[com.google.firebase:firebase-common:20.4.2] /Users/deepakyadav/.gradle/caches/transforms-3/6bd9c8a3878f55f60f3ab014220918e3/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:37:17-82
+127        </service>
+128
+129        <provider
+129-->[:react-native-firebase_app] /Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:23:9-27:38
+130            android:name="io.invertase.firebase.app.ReactNativeFirebaseAppInitProvider"
+130-->[:react-native-firebase_app] /Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:24:13-88
+131            android:authorities="com.awesommovie.reactnativefirebaseappinitprovider"
+131-->[:react-native-firebase_app] /Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:25:13-86
+132            android:exported="false"
+132-->[:react-native-firebase_app] /Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:26:13-37
+133            android:initOrder="99" />
+133-->[:react-native-firebase_app] /Users/deepakyadav/Desktop/movies/Movies/AwesomMovie/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:27:13-35
+134
+135        <property
+135-->[com.google.android.gms:play-services-measurement-api:21.5.1] /Users/deepakyadav/.gradle/caches/transforms-3/882699f9ba77a41dbdeb8de0d410c93a/transformed/jetified-play-services-measurement-api-21.5.1/AndroidManifest.xml:30:9-32:61
+136            android:name="android.adservices.AD_SERVICES_CONFIG"
+136-->[com.google.android.gms:play-services-measurement-api:21.5.1] /Users/deepakyadav/.gradle/caches/transforms-3/882699f9ba77a41dbdeb8de0d410c93a/transformed/jetified-play-services-measurement-api-21.5.1/AndroidManifest.xml:31:13-65
+137            android:resource="@xml/ga_ad_services_config" />
+137-->[com.google.android.gms:play-services-measurement-api:21.5.1] /Users/deepakyadav/.gradle/caches/transforms-3/882699f9ba77a41dbdeb8de0d410c93a/transformed/jetified-play-services-measurement-api-21.5.1/AndroidManifest.xml:32:13-58
+138
+139        <receiver
+139-->[com.google.android.gms:play-services-measurement:21.5.1] /Users/deepakyadav/.gradle/caches/transforms-3/c1912fa041548e88e5dc4b718b294c8a/transformed/jetified-play-services-measurement-21.5.1/AndroidManifest.xml:29:9-33:20
+140            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+140-->[com.google.android.gms:play-services-measurement:21.5.1] /Users/deepakyadav/.gradle/caches/transforms-3/c1912fa041548e88e5dc4b718b294c8a/transformed/jetified-play-services-measurement-21.5.1/AndroidManifest.xml:30:13-85
+141            android:enabled="true"
+141-->[com.google.android.gms:play-services-measurement:21.5.1] /Users/deepakyadav/.gradle/caches/transforms-3/c1912fa041548e88e5dc4b718b294c8a/transformed/jetified-play-services-measurement-21.5.1/AndroidManifest.xml:31:13-35
+142            android:exported="false" >
+142-->[com.google.android.gms:play-services-measurement:21.5.1] /Users/deepakyadav/.gradle/caches/transforms-3/c1912fa041548e88e5dc4b718b294c8a/transformed/jetified-play-services-measurement-21.5.1/AndroidManifest.xml:32:13-37
+143        </receiver>
+144
+145        <service
+145-->[com.google.android.gms:play-services-measurement:21.5.1] /Users/deepakyadav/.gradle/caches/transforms-3/c1912fa041548e88e5dc4b718b294c8a/transformed/jetified-play-services-measurement-21.5.1/AndroidManifest.xml:35:9-38:40
+146            android:name="com.google.android.gms.measurement.AppMeasurementService"
+146-->[com.google.android.gms:play-services-measurement:21.5.1] /Users/deepakyadav/.gradle/caches/transforms-3/c1912fa041548e88e5dc4b718b294c8a/transformed/jetified-play-services-measurement-21.5.1/AndroidManifest.xml:36:13-84
+147            android:enabled="true"
+147-->[com.google.android.gms:play-services-measurement:21.5.1] /Users/deepakyadav/.gradle/caches/transforms-3/c1912fa041548e88e5dc4b718b294c8a/transformed/jetified-play-services-measurement-21.5.1/AndroidManifest.xml:37:13-35
+148            android:exported="false" />
+148-->[com.google.android.gms:play-services-measurement:21.5.1] /Users/deepakyadav/.gradle/caches/transforms-3/c1912fa041548e88e5dc4b718b294c8a/transformed/jetified-play-services-measurement-21.5.1/AndroidManifest.xml:38:13-37
+149        <service
+149-->[com.google.android.gms:play-services-measurement:21.5.1] /Users/deepakyadav/.gradle/caches/transforms-3/c1912fa041548e88e5dc4b718b294c8a/transformed/jetified-play-services-measurement-21.5.1/AndroidManifest.xml:39:9-43:72
+150            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+150-->[com.google.android.gms:play-services-measurement:21.5.1] /Users/deepakyadav/.gradle/caches/transforms-3/c1912fa041548e88e5dc4b718b294c8a/transformed/jetified-play-services-measurement-21.5.1/AndroidManifest.xml:40:13-87
+151            android:enabled="true"
+151-->[com.google.android.gms:play-services-measurement:21.5.1] /Users/deepakyadav/.gradle/caches/transforms-3/c1912fa041548e88e5dc4b718b294c8a/transformed/jetified-play-services-measurement-21.5.1/AndroidManifest.xml:41:13-35
+152            android:exported="false"
+152-->[com.google.android.gms:play-services-measurement:21.5.1] /Users/deepakyadav/.gradle/caches/transforms-3/c1912fa041548e88e5dc4b718b294c8a/transformed/jetified-play-services-measurement-21.5.1/AndroidManifest.xml:42:13-37
+153            android:permission="android.permission.BIND_JOB_SERVICE" />
+153-->[com.google.android.gms:play-services-measurement:21.5.1] /Users/deepakyadav/.gradle/caches/transforms-3/c1912fa041548e88e5dc4b718b294c8a/transformed/jetified-play-services-measurement-21.5.1/AndroidManifest.xml:43:13-69
+154
+155        <uses-library
+155-->[androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/deepakyadav/.gradle/caches/transforms-3/7b30ba673135fdaebc2ea7798af0759e/transformed/jetified-ads-adservices-1.0.0-beta05/AndroidManifest.xml:23:9-25:40
+156            android:name="android.ext.adservices"
+156-->[androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/deepakyadav/.gradle/caches/transforms-3/7b30ba673135fdaebc2ea7798af0759e/transformed/jetified-ads-adservices-1.0.0-beta05/AndroidManifest.xml:24:13-50
+157            android:required="false" />
+157-->[androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/deepakyadav/.gradle/caches/transforms-3/7b30ba673135fdaebc2ea7798af0759e/transformed/jetified-ads-adservices-1.0.0-beta05/AndroidManifest.xml:25:13-37
+158
+159        <activity
+159-->[com.google.android.gms:play-services-auth:20.7.0] /Users/deepakyadav/.gradle/caches/transforms-3/16f9a3bf1b4c658eaaad55a465b0ce9d/transformed/jetified-play-services-auth-20.7.0/AndroidManifest.xml:23:9-27:75
+160            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+160-->[com.google.android.gms:play-services-auth:20.7.0] /Users/deepakyadav/.gradle/caches/transforms-3/16f9a3bf1b4c658eaaad55a465b0ce9d/transformed/jetified-play-services-auth-20.7.0/AndroidManifest.xml:24:13-93
+161            android:excludeFromRecents="true"
+161-->[com.google.android.gms:play-services-auth:20.7.0] /Users/deepakyadav/.gradle/caches/transforms-3/16f9a3bf1b4c658eaaad55a465b0ce9d/transformed/jetified-play-services-auth-20.7.0/AndroidManifest.xml:25:13-46
+162            android:exported="false"
+162-->[com.google.android.gms:play-services-auth:20.7.0] /Users/deepakyadav/.gradle/caches/transforms-3/16f9a3bf1b4c658eaaad55a465b0ce9d/transformed/jetified-play-services-auth-20.7.0/AndroidManifest.xml:26:13-37
+163            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+163-->[com.google.android.gms:play-services-auth:20.7.0] /Users/deepakyadav/.gradle/caches/transforms-3/16f9a3bf1b4c658eaaad55a465b0ce9d/transformed/jetified-play-services-auth-20.7.0/AndroidManifest.xml:27:13-72
+164        <!--
+165            Service handling Google Sign-In user revocation. For apps that do not integrate with
+166            Google Sign-In, this service will never be started.
+167        -->
+168        <service
+168-->[com.google.android.gms:play-services-auth:20.7.0] /Users/deepakyadav/.gradle/caches/transforms-3/16f9a3bf1b4c658eaaad55a465b0ce9d/transformed/jetified-play-services-auth-20.7.0/AndroidManifest.xml:33:9-37:51
+169            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+169-->[com.google.android.gms:play-services-auth:20.7.0] /Users/deepakyadav/.gradle/caches/transforms-3/16f9a3bf1b4c658eaaad55a465b0ce9d/transformed/jetified-play-services-auth-20.7.0/AndroidManifest.xml:34:13-89
+170            android:exported="true"
+170-->[com.google.android.gms:play-services-auth:20.7.0] /Users/deepakyadav/.gradle/caches/transforms-3/16f9a3bf1b4c658eaaad55a465b0ce9d/transformed/jetified-play-services-auth-20.7.0/AndroidManifest.xml:35:13-36
+171            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+171-->[com.google.android.gms:play-services-auth:20.7.0] /Users/deepakyadav/.gradle/caches/transforms-3/16f9a3bf1b4c658eaaad55a465b0ce9d/transformed/jetified-play-services-auth-20.7.0/AndroidManifest.xml:36:13-107
+172            android:visibleToInstantApps="true" />
+172-->[com.google.android.gms:play-services-auth:20.7.0] /Users/deepakyadav/.gradle/caches/transforms-3/16f9a3bf1b4c658eaaad55a465b0ce9d/transformed/jetified-play-services-auth-20.7.0/AndroidManifest.xml:37:13-48
+173
+174        <activity
+174-->[com.google.android.gms:play-services-base:18.0.1] /Users/deepakyadav/.gradle/caches/transforms-3/e04577146130542fa21f86a14e93a902/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+175            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+175-->[com.google.android.gms:play-services-base:18.0.1] /Users/deepakyadav/.gradle/caches/transforms-3/e04577146130542fa21f86a14e93a902/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+176            android:exported="false"
+176-->[com.google.android.gms:play-services-base:18.0.1] /Users/deepakyadav/.gradle/caches/transforms-3/e04577146130542fa21f86a14e93a902/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+177            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+177-->[com.google.android.gms:play-services-base:18.0.1] /Users/deepakyadav/.gradle/caches/transforms-3/e04577146130542fa21f86a14e93a902/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+178
+179        <provider
+179-->[com.google.firebase:firebase-common:20.4.2] /Users/deepakyadav/.gradle/caches/transforms-3/6bd9c8a3878f55f60f3ab014220918e3/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:23:9-28:39
+180            android:name="com.google.firebase.provider.FirebaseInitProvider"
+180-->[com.google.firebase:firebase-common:20.4.2] /Users/deepakyadav/.gradle/caches/transforms-3/6bd9c8a3878f55f60f3ab014220918e3/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:24:13-77
+181            android:authorities="com.awesommovie.firebaseinitprovider"
+181-->[com.google.firebase:firebase-common:20.4.2] /Users/deepakyadav/.gradle/caches/transforms-3/6bd9c8a3878f55f60f3ab014220918e3/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:25:13-72
+182            android:directBootAware="true"
+182-->[com.google.firebase:firebase-common:20.4.2] /Users/deepakyadav/.gradle/caches/transforms-3/6bd9c8a3878f55f60f3ab014220918e3/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:26:13-43
+183            android:exported="false"
+183-->[com.google.firebase:firebase-common:20.4.2] /Users/deepakyadav/.gradle/caches/transforms-3/6bd9c8a3878f55f60f3ab014220918e3/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:27:13-37
+184            android:initOrder="100" />
+184-->[com.google.firebase:firebase-common:20.4.2] /Users/deepakyadav/.gradle/caches/transforms-3/6bd9c8a3878f55f60f3ab014220918e3/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:28:13-36
+185
+186        <meta-data
+186-->[com.google.android.gms:play-services-basement:18.2.0] /Users/deepakyadav/.gradle/caches/transforms-3/3c683f0f89b67cb32fb49c1b1ddbd246/transformed/jetified-play-services-basement-18.2.0/AndroidManifest.xml:21:9-23:69
+187            android:name="com.google.android.gms.version"
+187-->[com.google.android.gms:play-services-basement:18.2.0] /Users/deepakyadav/.gradle/caches/transforms-3/3c683f0f89b67cb32fb49c1b1ddbd246/transformed/jetified-play-services-basement-18.2.0/AndroidManifest.xml:22:13-58
+188            android:value="@integer/google_play_services_version" />
+188-->[com.google.android.gms:play-services-basement:18.2.0] /Users/deepakyadav/.gradle/caches/transforms-3/3c683f0f89b67cb32fb49c1b1ddbd246/transformed/jetified-play-services-basement-18.2.0/AndroidManifest.xml:23:13-66
+189
+190        <provider
+190-->[androidx.emoji2:emoji2:1.2.0] /Users/deepakyadav/.gradle/caches/transforms-3/fbb2be9dbd6183e8311d3ac006784ffa/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+191            android:name="androidx.startup.InitializationProvider"
+191-->[androidx.emoji2:emoji2:1.2.0] /Users/deepakyadav/.gradle/caches/transforms-3/fbb2be9dbd6183e8311d3ac006784ffa/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
+192            android:authorities="com.awesommovie.androidx-startup"
+192-->[androidx.emoji2:emoji2:1.2.0] /Users/deepakyadav/.gradle/caches/transforms-3/fbb2be9dbd6183e8311d3ac006784ffa/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
+193            android:exported="false" >
+193-->[androidx.emoji2:emoji2:1.2.0] /Users/deepakyadav/.gradle/caches/transforms-3/fbb2be9dbd6183e8311d3ac006784ffa/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
+194            <meta-data
+194-->[androidx.emoji2:emoji2:1.2.0] /Users/deepakyadav/.gradle/caches/transforms-3/fbb2be9dbd6183e8311d3ac006784ffa/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+195                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+195-->[androidx.emoji2:emoji2:1.2.0] /Users/deepakyadav/.gradle/caches/transforms-3/fbb2be9dbd6183e8311d3ac006784ffa/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
+196                android:value="androidx.startup" />
+196-->[androidx.emoji2:emoji2:1.2.0] /Users/deepakyadav/.gradle/caches/transforms-3/fbb2be9dbd6183e8311d3ac006784ffa/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
+197            <meta-data
+197-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/deepakyadav/.gradle/caches/transforms-3/01815581afc1998c7868acd647df806f/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+198                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+198-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/deepakyadav/.gradle/caches/transforms-3/01815581afc1998c7868acd647df806f/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+199                android:value="androidx.startup" />
+199-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/deepakyadav/.gradle/caches/transforms-3/01815581afc1998c7868acd647df806f/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+200        </provider>
+201
+202        <meta-data
+202-->[com.facebook.soloader:soloader:0.10.5] /Users/deepakyadav/.gradle/caches/transforms-3/a8bc4a39f05b0cfc749bf73de002f192/transformed/jetified-soloader-0.10.5/AndroidManifest.xml:12:9-14:37
+203            android:name="com.facebook.soloader.enabled"
+203-->[com.facebook.soloader:soloader:0.10.5] /Users/deepakyadav/.gradle/caches/transforms-3/a8bc4a39f05b0cfc749bf73de002f192/transformed/jetified-soloader-0.10.5/AndroidManifest.xml:13:13-57
+204            android:value="false" />
+204-->[com.facebook.soloader:soloader:0.10.5] /Users/deepakyadav/.gradle/caches/transforms-3/a8bc4a39f05b0cfc749bf73de002f192/transformed/jetified-soloader-0.10.5/AndroidManifest.xml:14:13-34
+205    </application>
+206
+207</manifest>

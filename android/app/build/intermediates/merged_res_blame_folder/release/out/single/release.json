@@ -1,0 +1,234 @@
+[
+    {
+        "merged": "com.awesommovie.app-merged_res-43:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.awesommovie.app-res-37:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.awesommovie.app-merged_res-43:/drawable-mdpi_src_assets_b4.jpeg.flat",
+        "source": "com.awesommovie.app-res-37:/drawable-mdpi/src_assets_b4.jpeg"
+    },
+    {
+        "merged": "com.awesommovie.app-merged_res-43:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.awesommovie.app-main-44:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.awesommovie.app-merged_res-43:/drawable-mdpi_src_assets_fox.jpg.flat",
+        "source": "com.awesommovie.app-res-37:/drawable-mdpi/src_assets_fox.jpg"
+    },
+    {
+        "merged": "com.awesommovie.app-merged_res-43:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.awesommovie.app-main-44:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.awesommovie.app-merged_res-43:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.awesommovie.app-main-44:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.awesommovie.app-merged_res-43:/drawable-mdpi_src_screens_movies_movieimage_m7.jpeg.flat",
+        "source": "com.awesommovie.app-res-37:/drawable-mdpi/src_screens_movies_movieimage_m7.jpeg"
+    },
+    {
+        "merged": "com.awesommovie.app-merged_res-43:/drawable-mdpi_src_screens_movies_tvshowsimages_s3.jpeg.flat",
+        "source": "com.awesommovie.app-res-37:/drawable-mdpi/src_screens_movies_tvshowsimages_s3.jpeg"
+    },
+    {
+        "merged": "com.awesommovie.app-merged_res-43:/drawable-mdpi_src_screens_movies_tvshowsimages_s8.jpeg.flat",
+        "source": "com.awesommovie.app-res-37:/drawable-mdpi/src_screens_movies_tvshowsimages_s8.jpeg"
+    },
+    {
+        "merged": "com.awesommovie.app-merged_res-43:/drawable-mdpi_src_screens_movies_movieimage_m4.jpeg.flat",
+        "source": "com.awesommovie.app-res-37:/drawable-mdpi/src_screens_movies_movieimage_m4.jpeg"
+    },
+    {
+        "merged": "com.awesommovie.app-merged_res-43:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.awesommovie.app-main-44:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.awesommovie.app-merged_res-43:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.awesommovie.app-res-37:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.awesommovie.app-merged_res-43:/drawable-mdpi_src_assets_catimgage_cat5.jpeg.flat",
+        "source": "com.awesommovie.app-res-37:/drawable-mdpi/src_assets_catimgage_cat5.jpeg"
+    },
+    {
+        "merged": "com.awesommovie.app-merged_res-43:/drawable-mdpi_src_assets_poster.jpeg.flat",
+        "source": "com.awesommovie.app-res-37:/drawable-mdpi/src_assets_poster.jpeg"
+    },
+    {
+        "merged": "com.awesommovie.app-merged_res-43:/drawable-mdpi_src_screens_movies_movieimage_m8.jpeg.flat",
+        "source": "com.awesommovie.app-res-37:/drawable-mdpi/src_screens_movies_movieimage_m8.jpeg"
+    },
+    {
+        "merged": "com.awesommovie.app-merged_res-43:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.awesommovie.app-res-37:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.awesommovie.app-merged_res-43:/drawable-mdpi_src_assets_b2.jpeg.flat",
+        "source": "com.awesommovie.app-res-37:/drawable-mdpi/src_assets_b2.jpeg"
+    },
+    {
+        "merged": "com.awesommovie.app-merged_res-43:/drawable-hdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "com.awesommovie.app-res-37:/drawable-hdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "com.awesommovie.app-merged_res-43:/drawable-xhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "com.awesommovie.app-res-37:/drawable-xhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "com.awesommovie.app-merged_res-43:/drawable-mdpi_src_assets_hotstart.jpeg.flat",
+        "source": "com.awesommovie.app-res-37:/drawable-mdpi/src_assets_hotstart.jpeg"
+    },
+    {
+        "merged": "com.awesommovie.app-merged_res-43:/drawable-mdpi_src_screens_movies_movieimage_m5.jpeg.flat",
+        "source": "com.awesommovie.app-res-37:/drawable-mdpi/src_screens_movies_movieimage_m5.jpeg"
+    },
+    {
+        "merged": "com.awesommovie.app-merged_res-43:/drawable-mdpi_src_assets_catimgage_cat4.jpeg.flat",
+        "source": "com.awesommovie.app-res-37:/drawable-mdpi/src_assets_catimgage_cat4.jpeg"
+    },
+    {
+        "merged": "com.awesommovie.app-merged_res-43:/drawable-mdpi_src_assets_lalan.jpeg.flat",
+        "source": "com.awesommovie.app-res-37:/drawable-mdpi/src_assets_lalan.jpeg"
+    },
+    {
+        "merged": "com.awesommovie.app-merged_res-43:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.awesommovie.app-res-37:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.awesommovie.app-merged_res-43:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.awesommovie.app-main-44:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.awesommovie.app-merged_res-43:/drawable-mdpi_src_assets_catimgage_cat2.jpeg.flat",
+        "source": "com.awesommovie.app-res-37:/drawable-mdpi/src_assets_catimgage_cat2.jpeg"
+    },
+    {
+        "merged": "com.awesommovie.app-merged_res-43:/drawable-mdpi_src_assets_ani.jpeg.flat",
+        "source": "com.awesommovie.app-res-37:/drawable-mdpi/src_assets_ani.jpeg"
+    },
+    {
+        "merged": "com.awesommovie.app-merged_res-43:/drawable-mdpi_src_screens_movies_movieimage_m6.jpeg.flat",
+        "source": "com.awesommovie.app-res-37:/drawable-mdpi/src_screens_movies_movieimage_m6.jpeg"
+    },
+    {
+        "merged": "com.awesommovie.app-merged_res-43:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.awesommovie.app-res-37:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.awesommovie.app-merged_res-43:/drawable-mdpi_src_assets_b1.jpeg.flat",
+        "source": "com.awesommovie.app-res-37:/drawable-mdpi/src_assets_b1.jpeg"
+    },
+    {
+        "merged": "com.awesommovie.app-merged_res-43:/drawable-mdpi_src_screens_movies_tvshowsimages_s2.jpeg.flat",
+        "source": "com.awesommovie.app-res-37:/drawable-mdpi/src_screens_movies_tvshowsimages_s2.jpeg"
+    },
+    {
+        "merged": "com.awesommovie.app-merged_res-43:/drawable-mdpi_src_screens_movies_movieimage_m3.jpeg.flat",
+        "source": "com.awesommovie.app-res-37:/drawable-mdpi/src_screens_movies_movieimage_m3.jpeg"
+    },
+    {
+        "merged": "com.awesommovie.app-merged_res-43:/drawable-mdpi_src_assets_catimgage_cat3.jpeg.flat",
+        "source": "com.awesommovie.app-res-37:/drawable-mdpi/src_assets_catimgage_cat3.jpeg"
+    },
+    {
+        "merged": "com.awesommovie.app-merged_res-43:/drawable-mdpi_src_assets_amazon.jpeg.flat",
+        "source": "com.awesommovie.app-res-37:/drawable-mdpi/src_assets_amazon.jpeg"
+    },
+    {
+        "merged": "com.awesommovie.app-merged_res-43:/drawable-mdpi_src_assets_catimgage_cat6.jpeg.flat",
+        "source": "com.awesommovie.app-res-37:/drawable-mdpi/src_assets_catimgage_cat6.jpeg"
+    },
+    {
+        "merged": "com.awesommovie.app-merged_res-43:/drawable-mdpi_src_screens_movies_tvshowsimages_s1.jpeg.flat",
+        "source": "com.awesommovie.app-res-37:/drawable-mdpi/src_screens_movies_tvshowsimages_s1.jpeg"
+    },
+    {
+        "merged": "com.awesommovie.app-merged_res-43:/drawable-mdpi_src_screens_movies_tvshowsimages_s7.jpeg.flat",
+        "source": "com.awesommovie.app-res-37:/drawable-mdpi/src_screens_movies_tvshowsimages_s7.jpeg"
+    },
+    {
+        "merged": "com.awesommovie.app-merged_res-43:/drawable-mdpi_src_assets_catimgage_cat.jpeg.flat",
+        "source": "com.awesommovie.app-res-37:/drawable-mdpi/src_assets_catimgage_cat.jpeg"
+    },
+    {
+        "merged": "com.awesommovie.app-merged_res-43:/drawable-mdpi_src_assets_netflix.jpeg.flat",
+        "source": "com.awesommovie.app-res-37:/drawable-mdpi/src_assets_netflix.jpeg"
+    },
+    {
+        "merged": "com.awesommovie.app-merged_res-43:/drawable-mdpi_src_assets_b3.jpeg.flat",
+        "source": "com.awesommovie.app-res-37:/drawable-mdpi/src_assets_b3.jpeg"
+    },
+    {
+        "merged": "com.awesommovie.app-merged_res-43:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.awesommovie.app-main-44:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.awesommovie.app-merged_res-43:/drawable-xxhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "com.awesommovie.app-res-37:/drawable-xxhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "com.awesommovie.app-merged_res-43:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.awesommovie.app-main-44:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.awesommovie.app-merged_res-43:/drawable-mdpi_src_assets_sorry.jpeg.flat",
+        "source": "com.awesommovie.app-res-37:/drawable-mdpi/src_assets_sorry.jpeg"
+    },
+    {
+        "merged": "com.awesommovie.app-merged_res-43:/drawable-xxxhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "com.awesommovie.app-res-37:/drawable-xxxhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "com.awesommovie.app-merged_res-43:/drawable-mdpi_src_screens_movies_tvshowsimages_s4.jpeg.flat",
+        "source": "com.awesommovie.app-res-37:/drawable-mdpi/src_screens_movies_tvshowsimages_s4.jpeg"
+    },
+    {
+        "merged": "com.awesommovie.app-merged_res-43:/drawable-mdpi_src_screens_movies_movieimage_m1.jpeg.flat",
+        "source": "com.awesommovie.app-res-37:/drawable-mdpi/src_screens_movies_movieimage_m1.jpeg"
+    },
+    {
+        "merged": "com.awesommovie.app-merged_res-43:/drawable-mdpi_src_screens_movies_tvshowsimages_s5.jpeg.flat",
+        "source": "com.awesommovie.app-res-37:/drawable-mdpi/src_screens_movies_tvshowsimages_s5.jpeg"
+    },
+    {
+        "merged": "com.awesommovie.app-merged_res-43:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.awesommovie.app-res-37:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.awesommovie.app-merged_res-43:/drawable-mdpi_src_screens_movies_movieimage_m2.jpeg.flat",
+        "source": "com.awesommovie.app-res-37:/drawable-mdpi/src_screens_movies_movieimage_m2.jpeg"
+    },
+    {
+        "merged": "com.awesommovie.app-merged_res-43:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.awesommovie.app-main-44:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.awesommovie.app-merged_res-43:/drawable-mdpi_src_assets_jio.jpeg.flat",
+        "source": "com.awesommovie.app-res-37:/drawable-mdpi/src_assets_jio.jpeg"
+    },
+    {
+        "merged": "com.awesommovie.app-merged_res-43:/drawable-mdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "com.awesommovie.app-res-37:/drawable-mdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "com.awesommovie.app-merged_res-43:/drawable-mdpi_src_screens_movies_tvshowsimages_s6.jpeg.flat",
+        "source": "com.awesommovie.app-res-37:/drawable-mdpi/src_screens_movies_tvshowsimages_s6.jpeg"
+    },
+    {
+        "merged": "com.awesommovie.app-merged_res-43:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.awesommovie.app-main-44:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.awesommovie.app-merged_res-43:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.awesommovie.app-main-44:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.awesommovie.app-merged_res-43:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.awesommovie.app-main-44:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.awesommovie.app-merged_res-43:/drawable-mdpi_src_assets_b5.jpeg.flat",
+        "source": "com.awesommovie.app-res-37:/drawable-mdpi/src_assets_b5.jpeg"
+    }
+]

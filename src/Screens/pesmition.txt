@@ -1,0 +1,41 @@
+import React, { useEffect } from 'react';
+import { View, Button, Alert } from 'react-native';
+import Permissions from 'react-native-permissions';
+
+const App = () => {
+  useEffect(() => {
+    checkPermissions();
+  }, []);
+
+  const checkPermissions = async () => {
+    const cameraPermission = await Permissions.check('camera');
+    const contactsPermission = await Permissions.check('contacts');
+    const audioPermission = await Permissions.check('microphone');
+
+    if (cameraPermission !== 'authorized' || contactsPermission !== 'authorized' || audioPermission !== 'authorized') {
+      requestPermissions();
+    }
+  };
+
+  const requestPermissions = async () => {
+    const cameraPermission = await Permissions.request('camera');
+    const contactsPermission = await Permissions.request('contacts');
+    const audioPermission = await Permissions.request('microphone');
+
+    if (cameraPermission !== 'authorized' || contactsPermission !== 'authorized' || audioPermission !== 'authorized') {
+      Alert.alert(
+        'Permission Denied',
+        'Please enable camera, contacts, and microphone permissions in settings to use this app.',
+        [{ text: 'OK', onPress: () => console.log('OK Pressed') }]
+      );
+    }
+  };
+
+  return (
+    <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
+      <Button title="Check Permissions" onPress={checkPermissions} />
+    </View>
+  );
+};
+
+export default App;

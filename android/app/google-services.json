@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "223598649809",
+    "project_id": "cinema-hall-a9dff",
+    "storage_bucket": "cinema-hall-a9dff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223598649809:android:7e2156a92355224ecbc0f0",
+        "android_client_info": {
+          "package_name": "com.AwesomMovie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoSg0lL1kuCXBW0ikBAR5Ts7t6UtMq_5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223598649809:android:460c87f6e6dfa383cbc0f0",
+        "android_client_info": {
+          "package_name": "com.awesommovie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoSg0lL1kuCXBW0ikBAR5Ts7t6UtMq_5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
